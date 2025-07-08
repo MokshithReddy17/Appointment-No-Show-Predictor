@@ -25,8 +25,6 @@ Waiting time
 
 Age, gender, location
 
-SMS reminders
-
 Health conditions
 
 📂 Files
